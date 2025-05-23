@@ -1,7 +1,5 @@
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/hexagon/croner@master/croner.png" alt="Croner" width="150" height="150"><br>
-Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. All features. Node. Deno. Bun. Browser. <br><br>Try it live on <a href="https://jsfiddle.net/hexag0n/hoa8kwsb/">jsfiddle</a>, and check out the full documentation on <a href="https://croner.56k.guru">croner.56k.guru</a>.<br>
-</p>
 
 # Croner - Cron for JavaScript and TypeScript
 
@@ -291,19 +289,3 @@ npm install croner@dev
 
 > **Warning**
 > Expect breaking changes if you do not pin to a specific version.
-
-A list of fixes and features currently released in the `dev` branch is available [here](https://github.com/Hexagon/croner/issues?q=is%3Aopen+is%3Aissue+label%3Areleased-in-dev)
-
-## Contributing & Support
-
-Croner is founded and actively maintained by Hexagon. If you find value in Croner and want to contribute:
-
-- Code Contributions: See our [Contribution Guide](https://croner.56k.guru/contributing/) for details on how to contribute code.
-
-- Sponsorship and Donations: See [github.com/sponsors/hexagon](https://github.com/sponsors/hexagon)
-
-Your trust, support, and contributions drive the project. Every bit, irrespective of its size, is deeply appreciated.
-
-## License
-
-MIT License
